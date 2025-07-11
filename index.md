@@ -1,37 +1,32 @@
 ---
 layout: default
-title: 自己紹介
+date: 2025-07-11
+title: Ichii-K Pages
 ---
-
-<style>
-  body {
-    font-family: sans-serif;
-    background-color: #f9f9f9;
-    color: #333;
-    padding: 2rem;
-    max-width: 600px;
-    margin: auto;
-  }
-  h1 {
-    font-size: 2rem;
-    margin-bottom: 1rem;
-  }
-  p {
-    line-height: 1.6;
-  }
-  a {
-    color: #007acc;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
 
 # こんにちは、ichii-kです。
 
-クラウドエンジニアです。
+クラウドエンジニアとして働いています。  
+主にインフラや自動化、DevOps関連の設計・構築・改善業務に携わっています。  
+趣味でもツール開発や記事執筆を行っています。
 
-趣味で記事も書いています。よければぜひご覧ください。
+---
 
-- [note（ブログ）](https://note.com/ichikentoon){:target="_blank"}
+## 🔧 スキル・関心領域
+
+- AWS（ECS, Lambda, CloudFormation, CDK など）
+- IaC（Terraform, CloudFormation）
+- Python によるスクリプト・自動化
+- GitHub Actions によるCI/CD
+
+---
+
+## 📝 ブログ・アウトプット
+
+趣味で技術記事や考えをまとめています。ぜひご覧ください。
+
+- 📘 [note（技術・思考メモ）](https://note.com/ichikentoon){:target="_blank"}
+
+---
+
+ご訪問ありがとうございます！
