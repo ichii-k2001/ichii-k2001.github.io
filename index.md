@@ -1,9 +1,3 @@
----
-layout: default
-date: 2025-07-11
-title: Ichii-K Pages
----
-
 # こんにちは、ichii-kです。
 
 クラウドエンジニアとして働いています。  
