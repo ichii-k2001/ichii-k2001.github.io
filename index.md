@@ -2,6 +2,12 @@
 title: Ichii-K Pages
 ---
 
+<style>
+  h1, h2 {
+    font-weight: 700;
+  }
+</style>
+
 # こんにちは、ichii-kです。
 
 クラウドエンジニアとして働いています。  
