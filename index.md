@@ -19,7 +19,7 @@
 
 趣味で技術記事や考えをまとめています。ぜひご覧ください。
 
-- 📘 [note（技術・思考メモ）](https://note.com/ichikentoon){:target="_blank"}
+- 📘 [note（技術・思考メモ）](https://note.com/ichii_k){:target="_blank"}
 
 ---
 
