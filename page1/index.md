@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Ichii-K Pages
 description: page1
 ---
 
