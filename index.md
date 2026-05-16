@@ -1,5 +1,5 @@
 ---
-title: Ichii-K Pages
+layout: default
 ---
 
 # こんにちは、ichii-kです。
@@ -9,7 +9,7 @@ title: Ichii-K Pages
 
 ---
 
-## 📜 経歴
+## 経歴
 
 ### 2025年
 - クラウドエンジニアとしてSES企業に入社
@@ -24,7 +24,7 @@ title: Ichii-K Pages
 
 ---
 
-## 🔧 スキル・関心領域
+## スキル・関心領域
 
 - AWS（VPC, ECS, ELB, CloudFront, RDS など）
 - GitHub Actions によるCI/CD
@@ -32,13 +32,20 @@ title: Ichii-K Pages
 
 ---
 
-## 📝 ブログ・アウトプット
+## ブログ・アウトプット
 
 積極的にアウトプットをしていきます。
 
-- 📘 [note](https://note.com/ichii_k){:target="_blank"}
-- 🐦 [X（旧Twitter）](https://x.com/ichii_k2001){:target="_blank"}
-- 🐙 [GitHub](https://github.com/ichii-k2001){:target="_blank"}
+- [Note](https://note.com/ichii_k){:target="_blank"}
+- [X（旧Twitter）](https://x.com/ichii_k2001){:target="_blank"}
+- [GitHub](https://github.com/ichii-k2001){:target="_blank"}
+
+---
+
+## その他
+
+- [page1](./page1/)
+- [page2](./page2/)
 
 ---
 

@@ -1,3 +1,6 @@
 title: Ichii-K Pages
 description: Ichiiのポートフォリオ
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-sitemap
