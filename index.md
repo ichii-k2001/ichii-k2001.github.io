@@ -6,7 +6,7 @@ title: Ichii-K Pages
 # こんにちは、ichii-kです。
 
 クラウドエンジニアとして働いています。  
-主にインフラ（クラウド）領域の要件定義～運用・保守に携わっています。  
+主にインフラ（クラウド）領域の要件定義～運用・保守に携わっています。
 
 ---
 
@@ -37,6 +37,7 @@ title: Ichii-K Pages
 - Linux（運用・保守でのコマンド実行レベル）
 - GitHub Actions によるCI/CD
 - Databricks
+- Python, Java
 
 ---
 
